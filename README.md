@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yazansedih/Form-Wave-Animation/assets/137224224/14e2a588-7e47-4c80-871b-aa2c0490b24b" width=500px/>
+  <img src="https://github.com/yazansedih/Form-Wave-Animation/assets/137224224/a7f9c205-a697-4e80-8b09-d9ab0454b5e4" width=500px/>
   <br />
   <br />
 
